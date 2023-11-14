@@ -5,11 +5,12 @@ int main()
 {
 	Sales_item book;
 
-	//读入ISBN号、售出的册数以及销售价格
-	std::cin >> book;
-	//写入ISBN号、售出的册数、总销售额和平均价格
-	std::cout << book << std::endl;
+	////读入ISBN号、售出的册数以及销售价格
+	//std::cin >> book;
+	////写入ISBN号、售出的册数、总销售额和平均价格
+	//std::cout << book << std::endl;
 
+	std::cout << "Hello World!" << std::endl;
 
 	return 0;
 }

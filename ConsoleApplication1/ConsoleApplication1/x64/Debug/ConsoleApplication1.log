@@ -1,2 +1,5 @@
-﻿  Sale_item.cpp
-  ConsoleApplication1.vcxproj -> D:\szz\practice\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  ConsoleApplication1.cpp
+  Sale_item.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\szz\practice\git\test\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ConsoleApplication1.vcxproj -> D:\szz\practice\git\test\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
